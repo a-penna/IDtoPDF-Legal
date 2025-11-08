@@ -7,3 +7,4 @@ plugins:
 
 logo: /assets/app-icon.png
 show_downloads: false
+footer: ""
