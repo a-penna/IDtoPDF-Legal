@@ -1,5 +1,5 @@
 ---
-title: Legal Hub — ID to PDF
+title: ID to PDF – Legal Information
 permalink: /
 ---
 
