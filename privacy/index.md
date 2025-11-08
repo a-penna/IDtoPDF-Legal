@@ -4,8 +4,8 @@ permalink: /privacy/
 ---
 
 ## 📄 Privacy Policy
-- 🇬🇧 [English](privacy/privacy-en.md)
-- 🇮🇹 [Italian](privacy/privacy-it.md)
-- 🇪🇸 [Spanish](privacy/privacy-es.md)
-- 🇫🇷 [French](privacy/privacy-fr.md)
-- 🇩🇪 [German](privacy/privacy-de.md)
+- 🇬🇧 [English](privacy-en.md)
+- 🇮🇹 [Italian](privacy-it.md)
+- 🇪🇸 [Spanish](privacy-es.md)
+- 🇫🇷 [French](privacy-fr.md)
+- 🇩🇪 [German](privacy-de.md)
