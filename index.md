@@ -1,26 +1,15 @@
-# ID to PDF – Legal Documentation
-
-Welcome to the official legal documentation for the *ID to PDF* mobile application.  
-Here you can find the **Privacy Policy** and **Terms of Use** in all supported languages.
-
+---
+title: Legal Hub — ID to PDF
+permalink: /
 ---
 
-## 📄 Privacy Policy
-- 🇬🇧 [English](privacy/privacy-en.md)
-- 🇮🇹 [Italian](privacy/privacy-it.md)
-- 🇪🇸 [Spanish](privacy/privacy-es.md)
-- 🇫🇷 [French](privacy/privacy-fr.md)
-- 🇩🇪 [German](privacy/privacy-de.md)
+# ID to PDF – Legal Information
 
-## 📘 Terms of Use
-- 🇬🇧 [English](terms/terms-en.md)
-- 🇮🇹 [Italian](terms/terms-it.md)
-- 🇪🇸 [Spanish](terms/terms-es.md)
-- 🇫🇷 [French](terms/terms-fr.md)
-- 🇩🇪 [German](terms/terms-de.md)
+Welcome to the legal information page for **ID to PDF**.  
+Here you can access the official documents related to the app.
 
----
+Please select what you would like to view:
 
-## 📬 Contact
-For questions or support:  
-**alessandro_penna@icloud.com**
+- [Privacy Policy](privacy/index.md)
+- [Terms of Service](terms/index.md)
+- [Contact & Support](contact.md)
