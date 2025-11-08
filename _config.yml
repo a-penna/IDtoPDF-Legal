@@ -1,0 +1,9 @@
+title: ID to PDF – Terms & Privacy
+description: Legal documentation for the ID to PDF app
+theme: jekyll-theme-cayman
+
+plugins:
+  - jekyll-seo-tag
+
+logo: /assets/app-icon.png
+show_downloads: false
